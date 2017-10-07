@@ -1,4 +1,7 @@
-tjfjdklansdkla   hhhhhhlhlhhlhlhlhnl
+<<<<<<< HEAD
+=======
+
+>>>>>>> brachgit
 jalkjfal
 his is new f2 file
 jlsdfanfa
